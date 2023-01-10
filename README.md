@@ -1,4 +1,4 @@
-# Project-Group-D:
+# Project-Group-D
 ## Group Participants
 * Joe Johnson
 * Jenny Bedwell
