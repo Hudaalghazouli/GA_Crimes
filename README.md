@@ -1,5 +1,4 @@
 # GA Crimes
-
 ## Group Participants
 * Joe Johnson
 * Jenny Bedwell
