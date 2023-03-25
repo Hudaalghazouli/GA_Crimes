@@ -9,7 +9,7 @@
 * Chloe Stitik
 * Lennox Nguyen
 * Diana Lam
-Hgv
+Hg
 ## Data Sources
 * "Federal Bureau of Investigation - Crime Data Explorer" API Call on <a href = "https://crime-data-explorer.fr.cloud.gov/pages/explorer/crime/crime-trend">Crime Data</a>
 * "FRED - Federal Reserve Economic" Dataset <a href = "https://fred.stlouisfed.org/release/tables?rid=175&eid=266512">Median Household Income</a> 
